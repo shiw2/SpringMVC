@@ -1,1 +1,1 @@
-# SpringMVC
+# Hello World SpringMVC + MyBatis
